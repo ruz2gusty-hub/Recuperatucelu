@@ -1,0 +1,6 @@
+{
+  "name": "RecuperaTuCelu",
+  "description": "Aplicación para reporte y búsqueda de celulares perdidos por IMEI con autenticación y registro de celulares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
